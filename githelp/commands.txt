@@ -1,0 +1,13 @@
+Adding a file or folder
+$ git status
+$ git add README
+$ git status
+$ git commit -m 'Added README'
+$ git push -u origin master
+Running a git pull origin master to ensure you have absorbed any upstream changes
+
+
+Adding All Changed Files
+$ git add --all
+$ git commit -am "<commit message>"
+$ git push
