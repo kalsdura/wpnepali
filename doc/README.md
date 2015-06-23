@@ -1,0 +1,2 @@
+# wpnepali
+Nepali Wordpress Plugin
